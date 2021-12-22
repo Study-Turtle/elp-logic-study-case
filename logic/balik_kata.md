@@ -1,8 +1,11 @@
 # Logic Challenge - Balik Kata
+
 ## Problem
-Diberikan sebuah function balikKata(kata) yang menerima satu parameter berupa string. Function akan me-return kata yang dibalik. Contoh, jika kata adalah "John Doe", function akan me-return "eoD nhoJ".
+
+Diberikan sebuah function `balikKata(kata)` yang menerima satu parameter berupa string. Function akan me-return kata yang dibalik. Contoh, jika kata adalah "John Doe", function akan me-return "eoD nhoJ".
 
 ## Code
+
 ```python
 def balikKata(kata):
   # you can only write your code here!
